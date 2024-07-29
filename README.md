@@ -9,8 +9,8 @@ Cloning the Repository
 ----------------------
 First, clone the repository containing the docker-compose.yml file.
 ```shell
-git clone
-cd local_repo
+git clone https://github.com/iamkashifyousuf/docker_repos.git
+cd docker_repos
 ```
 Starting the Local Registry
 ---------------------------
